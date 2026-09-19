@@ -353,4 +353,30 @@ customer-churn-prediction/
 
 ```bash
 git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd customer-churn-prediction
+cd customer_churn_prediction
+
+## Key Visualizations
+
+### Customer Churn Distribution
+
+![Customer Churn Distribution](visualizations/churn_distribution.png)
+
+### Churn by Contract Type
+
+![Churn by Contract Type](visualizations/churn_by_contract.png)
+
+### Tenure and Churn
+
+![Tenure and Churn](visualizations/tenure_vs_churn.png)
+
+### Monthly Charges and Churn
+
+![Monthly Charges and Churn](visualizations/monthly_charges_vs_churn.png)
+
+### Churn by Payment Method
+
+![Churn by Payment Method](visualizations/churn_by_payment_method.png)
+
+### Model Performance
+
+![Model ROC Curve](visualizations/model_roc_curve.png)
